@@ -18,6 +18,7 @@ highlight NonText ctermbg=none
 
 set viminfo='50,\"1000,:0,n~/.vim/viminfo
 
+set termencoding=utf-8
 set encoding=utf-8
-set fileencodings=iso-2022-jp,euc-jp,sjis,utf-8
+set fileencodings=utf-8,iso-2022-jp,cp932,euc-jp
 set fileformats=unix,dos,mac
